@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h3 {
+  color: Blue;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+  background-color: green;
+  color: white;
+  padding-left: 10px;
+  
+}
+
+h4 {
+  color: red;
+  
+}
